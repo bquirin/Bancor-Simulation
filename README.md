@@ -1,5 +1,5 @@
 # Bancor-Simulation
-Simple set of python modules to illustrate the Bancor protocol for single reserve currencies and multiple reserve currencies 
+Simple set of python modules to illustrate the Bancor protocol for single reserve currencies and multiple reserve currencies
 
 references:
 
